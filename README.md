@@ -85,6 +85,6 @@ pyuic5 -x [ui file].ui -o [ui].py
 - If not working properly check antivirus
 
 ## Video Sample
-https://youtu.be/M8bw3Uu6lcU
+
 [![Watch the video](https://img.youtube.com/vi/M8bw3Uu6lcU/hqdefault.jpg)](https://youtu.be/M8bw3Uu6lcU)
 
