@@ -37,7 +37,7 @@ Libraries     :  requests , time, os, random and cytypes , pyqt5
   
   Help Screen
   
-  ![alt text](https://github.com/surenjanath/PythonProjectCreator/blob/main/Program_Images/Start_Arrows.png?raw=true)
+  ![alt text](https://github.com/surenjanath/PythonProjectCreator/blob/main/Program_Images/Start_arrows.png?raw=true)
   
    GUI 
   
