@@ -11,15 +11,15 @@ It is a work in progress but as time permits, I will add in more functionality a
 
 This version v1.1 creates : 
 GUI
-- 1. Pyqt5 GUI with a minimal template.
-- 2. It can also convert UI and QRC files to py for easy importing and packaging
-- 3. You can also run your project in using this program
-- 4. If duplicate project found, without modifying any code it will open the project folder for you and import the files for run or editing
+- Pyqt5 GUI with a minimal template.
+- It can also convert UI and QRC files to py for easy importing and packaging
+- You can also run your project in using this program
+- If duplicate project found, without modifying any code it will open the project folder for you and import the files for run or editing
 SCRAPING
-- 5. It creates a simple REQUESTS template for webscraping < I will add in some more functionality >
-- 6. Selenium Functionality is coming soon.
+- It creates a simple REQUESTS template for webscraping < I will add in some more functionality >
+- Selenium Functionality is coming soon.
 NORMAL
-- 7. Creates a normal project python code nothing out of the ordinary here.
+- Creates a normal project python code nothing out of the ordinary here.
 
 Program used  : Python , pyqt5-tools designer
 
